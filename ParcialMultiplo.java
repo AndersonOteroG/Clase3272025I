@@ -20,5 +20,7 @@ public class ParcialMultiplo {
         } else {
             System.out.println("Ninguno de los dos números es múltiplo del otro.");
         }
+        scanner.close();
+
     }
 }
